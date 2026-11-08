@@ -11,16 +11,16 @@ the open, and offers research and data engineering services.
 - **[Research](https://doubletrends.com/research/)**: studies of S&P 500
   drawdowns and investor behavior, primers on the measures behind the
   indicator, and one note per macroeconomic input.
-- **[The DoubleTrends Regime Indicator](https://doubletrends.com/indicator/)**:
+- **[Research services](https://doubletrends.com/company/consulting)**:
+  quantitative research and data engineering, by engagement.
+- **[AlphaVerify](https://github.com/doubletrends/alpha-verify)**: open-source
+  software that tests whether a trading signal beats 1,000 markets containing
+  no signal.
+- **[Regime Indicator](https://doubletrends.com/indicator/)**:
   a rules-based daily classification of S&P 500 market stress (calm,
   correction, panic, bear), with history from December 1995. The
   [methodology](https://doubletrends.com/indicator/methodology) and the
   [complete record](https://doubletrends.com/indicator/performance) are public.
-- **[AlphaVerify](https://github.com/doubletrends/alpha-verify)**: open-source
-  software that tests whether a trading signal beats 1,000 markets containing
-  no signal.
-- **[Research services](https://doubletrends.com/company/consulting)**:
-  quantitative research and data engineering, by engagement.
 
 ### What is public
 
